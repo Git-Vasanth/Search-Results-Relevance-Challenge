@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Crowdflower Search Results Relevance** project addresses a significant challenge faced by small online businesses: the ability to evaluate and optimize their search algorithms. Understanding that effective search functionality is crucial for enhancing customer experience, I set out to develop an open-source predictive model. This model aims to accurately assess the relevance of search results based on user queries and product descriptions, empowering small business owners to compete more effectively in the market.
+The **Search Results Relevance** project from addresses a significant challenge faced by small online businesses: the ability to evaluate and optimize their search algorithms. Understanding that effective search functionality is crucial for enhancing customer experience, I set out to develop an open-source predictive model. This model aims to accurately assess the relevance of search results based on user queries and product descriptions, empowering small business owners to compete more effectively in the market.
 
 ## Data Structure and Insights
 
