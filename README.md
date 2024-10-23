@@ -37,4 +37,10 @@ Looking ahead, I see numerous opportunities for further advancement:
 - **Enhanced Feature Engineering**: Investigating additional features, such as sentiment analysis or keyword extraction, may enrich the dataset and improve predictive accuracy.
 - **Diverse Dataset Testing**: I aim to evaluate our models on varied datasets to ensure robustness and generalizability across different contexts.
 
+## Full Report
+
+For a comprehensive overview of the methodology, findings, and detailed analysis, please refer to the full project report linked below:
+
+[Download Full Report](https://github.com/user-attachments/files/17484669/crowdflower.1.pdf)
+
 In conclusion, this project not only aims to improve search functionalities for small businesses but also contributes to the broader field of eCommerce analytics. The insights I derived from this analysis can significantly enhance customer experiences, making it a valuable resource for stakeholders. For a detailed implementation and results, please refer to the [GitHub repository](https://github.com/Git-Vasanth/Search-Results-Relevance-Challenge) and the [Kaggle dataset](https://www.kaggle.com/c/crowdflower-search-relevance).
