@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Crowdflower Search Results Relevance** project addresses a significant challenge faced by small online businesses: the ability to evaluate and optimize their search algorithms. Understanding that effective search functionality is crucial for enhancing customer experience, I set out to develop an open-source predictive model. This model aims to accurately assess the relevance of search results based on user queries and product descriptions, empowering small business owners to compete more effectively in the market.
+The **Search Results Relevance** project from addresses a significant challenge faced by small online businesses: the ability to evaluate and optimize their search algorithms. Understanding that effective search functionality is crucial for enhancing customer experience, I set out to develop an open-source predictive model. This model aims to accurately assess the relevance of search results based on user queries and product descriptions, empowering small business owners to compete more effectively in the market.
 
 ## Data Structure and Insights
 
@@ -36,5 +36,13 @@ Looking ahead, I see numerous opportunities for further advancement:
 - **Ensemble Methodology**: Exploring ensemble techniques could yield superior performance by leveraging the strengths of multiple models.
 - **Enhanced Feature Engineering**: Investigating additional features, such as sentiment analysis or keyword extraction, may enrich the dataset and improve predictive accuracy.
 - **Diverse Dataset Testing**: I aim to evaluate our models on varied datasets to ensure robustness and generalizability across different contexts.
+
+## Full Report
+
+For a comprehensive overview of the methodology, findings, and detailed analysis, please refer to the full project report linked below:
+
+[I want to See the Report](https://drive.google.com/file/d/1M7x86ugvEx1r1B445u3huVkUA2TJOBSd/view?usp=drive_link) 
+
+[Download Full Report](https://github.com/user-attachments/files/17484669/crowdflower.1.pdf)
 
 In conclusion, this project not only aims to improve search functionalities for small businesses but also contributes to the broader field of eCommerce analytics. The insights I derived from this analysis can significantly enhance customer experiences, making it a valuable resource for stakeholders. For a detailed implementation and results, please refer to the [GitHub repository](https://github.com/Git-Vasanth/Search-Results-Relevance-Challenge) and the [Kaggle dataset](https://www.kaggle.com/c/crowdflower-search-relevance).
